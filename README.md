@@ -21,4 +21,6 @@ I am a DevOps Engineer with expertise in CI/CD, Kubernetes, Docker, AWS, and inf
 ---
 [![](https://visitcount.itsvg.in/api?id=Navaneetha-krishna&icon=0&color=0)](https://visitcount.itsvg.in)
 
+C:\Users\navan\Downloads\imageSYS.png
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
