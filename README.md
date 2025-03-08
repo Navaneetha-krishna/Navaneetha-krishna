@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a DevOps Engineer with expertise in CI/CD, Kubernetes, Docker, AWS, and infrastructure automation. I love building scalable, reliable, and secure cloud-native systems using modern DevOps tools and best practices.<br><br>🔧 Tech Stack:<br><br>Infrastructure as Code (IaC): Terraform, Ansible<br>CI/CD Pipelines: GitHub Actions, Jenkins, GitLab CI/CD<br>Containers & Orchestration: Docker, Kubernetes<br>Monitoring & Logging:  Grafana, Cloudwatch<br>Cloud Platforms: AWS | Azure
+I am a DevOps Engineer with expertise in CI/CD, Kubernetes, Docker, AWS, and infrastructure automation. I love building scalable, reliable, and secure cloud-native systems using modern DevOps tools and best practices.<br><br>
 
 
 ## 🌐 Socials:
