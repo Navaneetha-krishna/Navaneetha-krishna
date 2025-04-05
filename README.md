@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a DevOps Engineer with expertise in CI/CD, Kubernetes, Docker, AWS, and infrastructure automation. I love building scalable, reliable, and secure cloud-native systems using modern DevOps tools and best practices.<br><br> 
+I am a DevOps Engineer with expertise in CI/CD, Kubernetes, Docker, AWS, and infrastructure automation. I love building scalable, reliable, and secure cloud-native systems using modern DevOps tools and best practices.<br><br>
 
 
 ## 🌐 Socials:
