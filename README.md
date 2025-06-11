@@ -12,7 +12,7 @@ I am a DevOps Engineer with expertise in CI/CD, Kubernetes, Docker, AWS, and inf
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Navaneetha-krishna&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Navaneetha-krishna&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneetha-krishna&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneetha-krishna&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Navaneetha-krishna&theme=default&no-frame=false&no-bg=false&margin-w=4)
