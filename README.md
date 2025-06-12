@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a DevOps Engineer with expertise in CI/CD, Kubernetes, Docker, AWS, and infrastructure automation. I love building scalable, reliable, and secure cloud-native systems using modern DevOps tools and best practices.<br><br>
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:/https://www.linkedin.com/in/navaneethakrishnanmuthusamy//) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navaneethanjuno@gmail.com) 
